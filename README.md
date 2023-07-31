@@ -1,16 +1,3 @@
-# Tasks-MIIDA
-"Mega Internship Program in Data Analytics" 
-create an EXCEL SHEET for a below Questions and provide solutions and upload in Task file.
+Welcome to the MEGA INTERNSHIP PROGRAM IN DATA ANALAYTICS an Career change proven program for any one with Passion on DATA!
 
-What is a ETL ?
-What is a ELT?
-List out the various tools used in ETL
-Draw the mechanism of ETL
-What is a datalake
-What is a data warehouse
-OLTP VS OLAP
-What are all the various analytical tools that can be connected with Datawarehouse?
-Explain the different stages used in ETL
-Explain 3 use cases for NOSQL
-What are all the characteristics of a nosql
-What are all the tools used to analyse nosql
+Here the Data Analytics, Repo contsains the Tasks and Internships= projects 
